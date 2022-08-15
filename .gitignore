@@ -1,0 +1,4 @@
+# Qt project user
+*.pro.user
+*build-*
+*.exe
